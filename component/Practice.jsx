@@ -5,6 +5,7 @@ const Practice = () => {
     <div>
         <h1>this is practice for git </h1>
         <h2>now i learn add main into practice</h2>
+        <h3>now i practice git  </h3>
     </div>
   )
 }
